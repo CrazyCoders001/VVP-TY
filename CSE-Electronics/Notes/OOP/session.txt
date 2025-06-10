@@ -1,0 +1,117 @@
+------------------------------------OOP (Object oriented programing)--------------------------
+
+1. What is the difference between oop and procedural 
+2. What are advantages of OOP ---
+
+lets say i have a code base of 1 lakh lines
+approach number 1 :- put entire code under one file
+approach number 2 :- divide the code in small chucks and create 100 small files
+    - Easy to manage the code
+    - Easy to debug the code
+    - To Maintain the code base you have to use oop, Maintainability
+    - Scalability  - To handle increasing code base 
+    - Flexibility 
+    - Reusability - using the same block of code, multiple times at multiple places
+
+{
+    code 1.
+    code 2.
+    code 3.
+
+    code 78292  --  will either generate wrong output, nhi to run hi nhi hoga
+
+    ......
+
+    code 1 lakh
+}
+
+small modules/packages/class
+file 1.cpp
+{
+    code 1.
+    code 2.
+    code 189  error 
+    ....
+    code 1000
+}
+
+small modules/packages/class
+file 2.cpp
+{
+    code 1.
+    code 2.
+    ....
+    code 1000
+}
+
+file 3.cpp, file 4.cpp .......
+
+
+class className{
+    ..........
+    ..........
+    ..........
+    procedural
+    ..........
+    ..........
+    ..........
+};
+
+
+3. What is class and what is object? 
+class :- It is a blueprint, by using this blueprint we can create objects
+object :- It is an instance of the class
+
+take example of CC lab  --- consider it as a class
+agar vo lab mai koi class hi nhi lega, to vo kisi use ka hai kya?
+
+consider CC lab mai
+session one - TY ka practical  -- instance
+session two - sy ka practical  -- instance
+
+Using a blueprint of a class you can create multiple objects
+
+
+....class ka structure-----
+
+// class defination
+class className{
+    scope :- public, private, protected
+    constructor
+    class variables
+    class function
+};
+
+int main(){
+    //object creation
+    className objectName;
+}
+
+4. What are 4 pillars of OOP?
+    - Inheritance
+        - acquiring properties and behaviours by child class from its parent class is known as Inheritance
+        - Types of Inheritance
+            - single Inheritance
+            - Multilevel inheritance
+            - Multiple inheritance
+            - Hierarchical inheritance
+                    grand_father
+                son           daughter
+            chintu mintu     sonu  monu
+
+            - Hybrid inheritance  -- Its a combination of multiple types of inheritance
+
+    - Polymorphism  
+        poly = Many 
+        morph = forms
+        Performing many actions using same function
+
+    - encapsulation   -- Wrapping/bundling all the data into single entity
+    
+    - Abstraction  
+        - Hiding internal complexity from user and showing/exposing
+        neccessary details only, is known as Abstraction
+
+constructor :- constructor is a special function with no return type, and its name is same as class name
+               used to initilize class variables
+               constructor is called every time, when you create a object
