@@ -115,3 +115,128 @@ int main(){
 constructor :- constructor is a special function with no return type, and its name is same as class name
                used to initilize class variables
                constructor is called every time, when you create a object
+
+
+Randhir Birajdar
+20:59
+AI&DS - Randhir Sudhir Birajdar - Roll No -16
+Onkar Shrikonda
+20:59
+AIDS   onkar Shrikonda.    12
+Aishwarya Mundewadi
+20:59
+AI & DS Aishwarya Mundewadi 69
+Aammar Rangar
+20:59
+CSE - Amir - Rangrez roll no:28
+AJINKYA KULKARNI
+20:59
+CSE Ajinkya Kulkarni 33
+vaishnavi charate
+20:59
+AIDS -Vaishnavi Charate -31
+Manasi Mittha
+20:59
+AI&DS -   Manasi Mittha  72
+vaishnavi Karbatti
+20:59
+CSE -Vaishnavi karbatti -73
+10_Hansaveni Boga
+20:59
+ENTC Hansaveni Boga 05
+U J
+20:59
+AIDS  Priyanka Udanur.  55
+Lavanya Kota
+20:59
+AIDS  Lavanya kota 42
+Rafiqua Nadaf
+20:59
+Electrical department -Nadaf Rafiqua -07
+Bhumika Konka
+20:59
+AIDS -   Bhumika Konka    35
+Vivek Jagtap
+20:59
+CSE - Vivek Jagtap - Roll No 5
+Genius Tony
+20:59
+cse-Pankaj Kumar -54
+2628 Sneha Jojare
+20:59
+AIDS Sneha Jojare - 36
+prathmesh adam
+20:59
+CSE Prathmesh Adam 37
+Deepika Jangam
+20:59
+CSE-Deepika Jangam-09
+Mangesh Pawar
+20:59
+CSE Mangesh Pawar 01
+Navin Andyal
+20:59
+CSE-Navin Andyal-57
+Ayush Undale
+20:59
+AI & DS Ayush Undale - 21
+Laxmi Dornal
+21:00
+CSE  - Laxmi Dornal Roll no:62
+Vaishnavi Kondur
+21:00
+AIDS - Vaishnavi Kondur - 15
+Vaishnavi Surwase
+21:00
+AIDS_vaishnavi surwase_54
+Shruti Adam
+21:00
+CSE|ShrutiAdam|63
+Suraj Gurushetti
+21:00
+AIDS- Suraj Gurushetti - 17
+Shruti Bharama
+21:00
+CSE -Shruti Bharama-65
+Aditi Jadhav
+21:00
+AIDS -Aditi Jadhav - 63
+Samarth Vhansure
+21:00
+CSE --samarth Vhansure-- Roll no -35
+Soham Birajdar
+21:00
+AI&DS    Soham Birajdar     37
+Shifa
+21:00
+Aids- Shifa Shaikh- 60
+Muzaffar Munshi
+21:00
+Aids Munshi Muzaffar 58
+Mahek Maniyar
+21:00
+AI&DS  Mahek Maniyar  19
+Niharika Irabatti
+21:00
+AI & DS -Niharika Irabatti-14
+Rajshri Adam
+21:01
+AIDS  Rajshri Adam
+Lavanya Gundeti
+21:01
+AIDS lavanya Gundeti -68
+Suraj Gurushetti
+21:01
+AIDS - Suraj Gurushetti 17
+Rajshri Adam
+21:01
+AIDS Rajshri Adam roll no 34
+Aishwarya Chidgumpi
+21:02
+AIDS Aishwarya Chidgumpi roll no 43
+Onkar M. S
+21:02
+Aids Onkar Swami 46
+Inzila Shaikh
+21:02
+Cse Inzila shaikh  roll. No 17
