@@ -21,6 +21,14 @@ void push(int n)
 }
 
 void pop(){
+    if(top==-1){
+        cout<<"stack underflow, nothing to delete"<<endl;
+        return;
+    }
+
+    cout<<"Deleting the element "<<Stack[top]<<endl;
+    Stack[top] = 0;
+    top--;
 
 }
 
@@ -40,6 +48,7 @@ void display(){
 }
 
 int main(){
+    pop();
 
     display();
 
@@ -49,6 +58,10 @@ int main(){
     push(30);
     push(60);
     push(70);
+
+    display();
+    pop();
+    display();
 
     push(80);
 
